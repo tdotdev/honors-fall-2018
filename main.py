@@ -90,7 +90,7 @@ if __name__ == '__main__':
             df_test_dummies.drop(columns=[miss], inplace=True)
         except: pass
 
-    # Create a Decision Tree Classifier with the numerical data and class label (College or not)
+    # Create a Linear SVC with the numerical data and class label (College or not)
     clf = LinearSVC()
     clf.fit(df_train_dummies, df_train_dummies['GO_Yes'])
 
