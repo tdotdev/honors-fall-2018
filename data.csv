@@ -1,0 +1,44 @@
+Timestamp,Did you go to college/in college now?,What is your living location in the US?,Is there a college within 30 miles of your living?,How many parents did you have growing up?,What do you consider your family's economic status to be?,What is your household's average median income?,Number of siblings,Did any of your siblings go to college?,Highest education attained by a parent?,What is your race?,What is your gender?,What was your GPA in high school?,Type of high school attended?,Birth year?,Did you have a job in high school?,What age did you go to college?
+11/7/2018 19:29:44,,Suburban,Yes,2,Middle,"80,001-100,000",2,No,"some college, no degree",caucasian/white,Male,3.6-4.0,Private,1996,No,18
+11/7/2018 19:35:12,,Suburban,Yes,2,Lower,"20,000 and below",0,No,associate's degree,caucasian/white,Male,3.6-4.0,Public,1995,No,20
+11/8/2018 1:09:59,,Suburban,Yes,2,Middle,"100,001 and above",3,Yes,"some college, no degree",caucasian/white,Male,4.1 and above,Public,1997,Yes,18
+11/8/2018 13:56:49,,Suburban,Yes,2,Middle,"100,001 and above",1,Yes,bachelor's degree,caucasian/white,Female,2.1-3.0,Public,1998,No,18
+11/12/2018 15:09:28,Yes,Suburban,Yes,2,Middle,"40,001-60,000",1,No,bachelor's degree,caucasian/white,Female,3.1-3.5,Private,2000,Yes,18
+11/12/2018 15:14:25,Yes,Urban,Yes,2,Middle,"40,001-60,000",1,No,associate's degree,caucasian/white,Female,3.6-4.0,Public,2000,Yes,18
+11/12/2018 15:19:59,No,Urban,Yes,2,Middle,"40,001-60,000",3,Yes,master's degree,caucasian/white,Male,3.1-3.5,Public,2000,Yes,N/A. Seperate classes not hosted by a college
+11/12/2018 15:27:41,Yes,Suburban,Yes,2,Middle,"80,001-100,000",2,Yes,doctorate,caucasian/white,Female,4.1 and above,Private,2000,No,18
+11/12/2018 15:50:53,Yes,Suburban,Yes,2,Middle,"100,001 and above",2,Yes,master's degree,Hispanic,Male,3.6-4.0,Private,2000,Yes,18
+11/12/2018 18:56:17,Yes,Suburban,Yes,2,Middle,"60,001-80,000",1,Yes,bachelor's degree,caucasian/white,Female,4.1 and above,Private,2000,Yes,18
+11/13/2018 14:01:45,Yes,Suburban,Yes,2,Upper,"100,001 and above",2,No,doctorate,caucasian/white,Male,3.6-4.0,Public,1998,Yes,18
+11/13/2018 14:08:09,Yes,Suburban,Yes,2,Middle,"40,001-60,000",2,Yes,bachelor's degree,Hispanic,Female,3.6-4.0,Private,1999,Yes,18
+11/13/2018 14:10:24,Yes,Suburban,Yes,2,Upper,"100,001 and above",0,No,master's degree,caucasian/white,Female,3.1-3.5,Public,1999,Yes,19
+11/13/2018 14:15:53,Yes,Suburban,No,2,Middle,"100,001 and above",3,Yes,master's degree,caucasian/white,Female,3.6-4.0,Private,2000,Yes,18
+11/13/2018 14:27:40,Yes,Urban,Yes,1,Lower,"20,001-40,000",1,Yes,high school diploma,caucasian/white,Female,3.6-4.0,Public,1999,Yes,18
+11/13/2018 14:36:30,Yes,Suburban,Yes,2,Middle,"40,001-60,000",1,No,bachelor's degree,caucasian/white,Female,2.1-3.0,Public,1999,Yes,18
+11/13/2018 14:40:07,Yes,Urban,,2,Middle,"40,001-60,000",3,Yes,master's degree,caucasian/white,Female,3.6-4.0,Private,2000,No,18
+11/13/2018 16:00:23,Yes,Rurual,Yes,2,Middle,"80,001-100,000",5,Yes,technical training/training experience,caucasian/white,Male,3.6-4.0,Public,1997,No,After highschool so 18
+11/13/2018 16:11:20,Yes,Rurual,Yes,2,Middle,"60,001-80,000",2,No,associate's degree,caucasian/white,Male,2.1-3.0,Public,1999,Yes,18
+11/13/2018 16:50:17,Yes,Urban,Yes,2,Upper,"80,001-100,000",1,No,master's degree,caucasian/white,Female,3.6-4.0,Public,1999,Yes,18
+11/13/2018 17:33:39,Yes,Rurual,Yes,2,Middle,"40,001-60,000",1,Yes,bachelor's degree,caucasian/white,Male,2.1-3.0,Public,2000,Yes,18
+11/14/2018 10:03:27,Yes,Suburban,Yes,2,Middle,"40,001-60,000",1,No,associate's degree,caucasian/white,Male,2.1-3.0,Private,1999,Yes,19
+11/15/2018 14:17:24,Yes,Urban,Yes,2,Middle,"100,001 and above",2,Yes,master's degree,caucasian/white,Male,4.1 and above,Public,1997,Yes,18
+11/15/2018 14:18:32,Yes,Urban,Yes,2,Middle,"40,001-60,000",1,,,,,,,1999,No,16
+11/15/2018 14:19:26,Yes,Suburban,Yes,2,Middle,"80,001-100,000",5,Yes,doctorate,Asian,Female,3.6-4.0,Private,1997,Yes,17
+11/15/2018 14:20:52,Yes,Suburban,Yes,2,Middle,"60,001-80,000",2,Yes,bachelor's degree,,Male,4.1 and above,Public,1998,No,18
+11/15/2018 14:21:30,Yes,Suburban,Yes,2,Middle,"60,001-80,000",2,Yes,doctorate,caucasian/white,Male,4.1 and above,Public,1997,No,18
+11/15/2018 14:22:30,Yes,Suburban,Yes,2,Middle,"80,001-100,000",1,Yes,associate's degree,caucasian/white,Male,3.1-3.5,Public,1998,No,18
+11/15/2018 14:23:27,Yes,Suburban,Yes,2,Middle,"100,001 and above",1,Yes,doctorate,caucasian/white,Male,4.1 and above,Public,1997,No,18
+11/15/2018 14:24:02,No,Urban,Yes,2,Middle,"80,001-100,000",,No,master's degree,caucasian/white,Female,3.1-3.5,Public,2000,No,Never 
+11/15/2018 14:26:18,Yes,Suburban,Yes,2,Middle,"100,001 and above",0,No,master's degree,caucasian/white,Male,3.6-4.0,Public,1998,No,17
+11/15/2018 15:41:52,Yes,Urban,Yes,4,Lower,"20,000 and below",2,No,bachelor's degree,caucasian/white,Male,2.1-3.0,Public,1997,Yes,16
+11/15/2018 15:47:22,Yes,Suburban,Yes,2,Middle,"80,001-100,000",4,Yes,master's degree,caucasian/white,Female,3.6-4.0,Public,1996,No,18
+11/15/2018 15:53:33,Yes,Suburban,Yes,2,Middle,"20,001-40,000",1,Yes,high school diploma,caucasian/white,Male,3.6-4.0,Public,1997,No,20
+11/15/2018 16:18:31,Yes,Urban,Yes,2,Middle,"40,001-60,000",1,Yes,high school diploma,caucasian/white,Female,4.1 and above,Public,1999,Yes,16
+11/15/2018 18:15:35,No,Urban,Yes,1,Lower,"20,001-40,000",2,Yes,no high school diploma,caucasian/white,Male,2.1-3.0,Public,1995,No,Didnt go
+11/15/2018 21:11:52,No,Suburban,Yes,2,Lower,"20,001-40,000",3,No,"some college, no degree",caucasian/white,Female,3.6-4.0,Public,1999,Yes,0
+11/16/2018 20:18:00,Yes,Suburban,Yes,2,Middle,"60,001-80,000",5,Yes,master's degree,caucasian/white,Female,4.1 and above,Public,1997,No,18
+11/16/2018 20:18:46,Yes,Suburban,Yes,2,Middle,"20,001-40,000",1,Yes,bachelor's degree,Other,Female,3.6-4.0,Public,1995,Yes,18
+11/16/2018 20:20:18,Yes,Suburban,Yes,2,Lower,"20,001-40,000",1,Yes,master's degree,Other,Female,3.6-4.0,Private,1995,No,2013
+11/16/2018 20:21:40,Yes,Suburban,Yes,2,Middle,"40,001-60,000",2,Yes,no high school diploma,caucasian/white,Female,4.1 and above,Public,1960,No,28
+11/16/2018 20:25:15,Yes,Suburban,Yes,1,Middle,"80,001-100,000",1,Yes,doctorate,Asian,Female,4.1 and above,Public,1998,No,17
+11/17/2018 23:08:33,Yes,Suburban,Yes,2,Lower,"20,000 and below",3,No,high school diploma,caucasian/white,Female,2.1-3.0,Private,1994,No,18
